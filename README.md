@@ -22,7 +22,3 @@ Aplikasi ini dibangun dengan menerapkan konsep **Separation of Concerns** agar k
 - **Framework:** Flutter (Dart)
 - **State Management:** `Provider` (mengelola *state* pencarian, *filter* kategori, dan status favorit secara terpusat)
 - **Sumber Data:** Data dummy lokal & aset gambar lokal (`assets/images/`)
-
-└── widgets/
-    ├── banner_artikel.dart           # Komponen banner utama di bagian atas
-    └── card_artikel.dart             # Komponen kartu item materi pembelajaran

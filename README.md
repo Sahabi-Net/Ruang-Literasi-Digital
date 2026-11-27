@@ -11,7 +11,7 @@ Aplikasi ini membantu pengguna memahami literasi digital melalui modul bacaan ri
 - **Pencarian Topik (*Search*):** Mencari modul pembelajaran secara *real-time* berdasarkan judul atau kata kunci tertentu.
 - **Filter Kategori:** Menyaring daftar materi berdasarkan kategori (*Semua*, *Keamanan Digital*, *Anti Hoaks*, *Etika Media Sosial*, dan lainnya).
 - **Simpan Materi (*Bookmark / Favorite*):** Menandai materi penting agar mudah ditemukan kembali, lengkap dengan indikator jumlah materi tersimpan di bagian *header*.
-- **Informasi Modul Terstruktur:** Setiap kartu menampilkan tingkat kesulitan (*Dasar*, *Menengah*), kategori, ringkasan singkat, dan estimasi waktu baca.
+- **Informasi Modul Terstruktur:** Setiap *card* kategori menampilkan tingkat kesulitan (*Dasar*, *Menengah*, *Lanjutan*), kategori, ringkasan singkat, dan estimasi waktu baca.
 
 ---
 

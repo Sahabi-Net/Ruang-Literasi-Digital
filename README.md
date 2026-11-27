@@ -23,17 +23,6 @@ Aplikasi ini dibangun dengan menerapkan konsep **Separation of Concerns** agar k
 - **State Management:** `Provider` (mengelola *state* pencarian, *filter* kategori, dan status favorit secara terpusat)
 - **Sumber Data:** Data dummy lokal & aset gambar lokal (`assets/images/`)
 
-### Struktur Folder
-
-```text
-lib/
-├── main.dart                         # Entry point aplikasi & konfigurasi Provider
-├── models/
-│   └── artikel_literasi.dart         # Model data modul literasi digital
-├── providers/
-│   └── literasi_provider.dart        # Logika state management (search, filter, favorite)
-├── screens/
-│   └── halaman_utama.dart            # Tampilan utama (Single Screen)
 └── widgets/
     ├── banner_artikel.dart           # Komponen banner utama di bagian atas
     └── card_artikel.dart             # Komponen kartu item materi pembelajaran

@@ -33,7 +33,7 @@ lib/
 ├── providers/
 │   └── literasi_provider.dart        # Logika state management (search, filter, favorite)
 ├── screens/
-│   └── home_screen.dart              # Tampilan utama (Single Screen)
+│   └── halaman_utama.dart            # Tampilan utama (Single Screen)
 └── widgets/
-    ├── featured_banner_card.dart     # Komponen banner utama di bagian atas
-    └── article_card_item.dart        # Komponen kartu item materi pembelajaran
+    ├── banner_artikel.dart           # Komponen banner utama di bagian atas
+    └── card_artikel.dart             # Komponen kartu item materi pembelajaran

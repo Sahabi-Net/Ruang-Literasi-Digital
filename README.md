@@ -1,4 +1,4 @@
-# 📱 Ruang Literasi Digital
+#  Ruang Literasi Digital
 
 **Ruang Literasi Digital** adalah aplikasi pembelajaran satu layar (*single screen*) bertema *education* berbasis Flutter yang dirancang untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah **Pemrograman Mobile II**.
 
@@ -6,7 +6,7 @@ Aplikasi ini membantu pengguna memahami literasi digital melalui modul bacaan ri
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 - **Pencarian Topik (*Search*):** Mencari modul pembelajaran secara *real-time* berdasarkan judul atau kata kunci tertentu.
 - **Filter Kategori:** Menyaring daftar materi berdasarkan kategori (*Semua*, *Keamanan Digital*, *Anti Hoaks*, *Etika Media Sosial*, dan lainnya).
@@ -15,7 +15,7 @@ Aplikasi ini membantu pengguna memahami literasi digital melalui modul bacaan ri
 
 ---
 
-## 🏗️ Arsitektur & Teknologi
+##  Arsitektur & Teknologi
 
 Aplikasi ini dibangun dengan menerapkan konsep **Separation of Concerns** agar kode lebih rapi, modular, dan mudah dipelihara:
 
